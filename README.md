@@ -12,5 +12,6 @@
 
 
 ### SNS
-[<img src="" alt="alt text" width="5%" height="5%">](https://twitter.com/AI_JUVET) [<img src="" alt="alt text" width="5%" height="5%">](https://juvet-ai.com)
+[<img src="https://user-images.githubusercontent.com/91817942/135741784-88fa0795-d608-4a6c-91fe-3f5fd0b963c4.png" alt="alt text" width="5%" height="5%">](https://twitter.com/AI_JUVET) [<img src="" alt="alt text" width="5%" height="5%">](https://juvet-ai.com)
+
 
