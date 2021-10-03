@@ -12,4 +12,4 @@
 
 
 ### SNS
-[<img src="https://user-images.githubusercontent.com/91817942/135741784-88fa0795-d608-4a6c-91fe-3f5fd0b963c4.png" alt="alt text" width="5%" height="5%">](https://twitter.com/AI_JUVET) [<img src="https://user-images.githubusercontent.com/91817942/135741829-0ae80e46-e8f4-478a-9c50-054e5200dd27.png" alt="alt text" width="5%" height="5%">](https://juvet-ai.com)
+[<img src="https://user-images.githubusercontent.com/91817942/135741919-1da03211-38b2-4837-8eee-a67559242d62.png" alt="alt text" width="5%" height="5%">](https://twitter.com/AI_JUVET) [<img src="https://user-images.githubusercontent.com/91817942/135741829-0ae80e46-e8f4-478a-9c50-054e5200dd27.png" alt="alt text" width="5%" height="5%">](https://juvet-ai.com)
